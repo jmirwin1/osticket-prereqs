@@ -44,6 +44,7 @@ When creating the VM, allow it to create a new Virtual Network (Vnet):
 <br />
 <br />
 <h3 align="center">Connect to your Virtual Machine with Remote Desktop Connection</h3>
+Use the VM's Public I.P. address to connect via Remote Desktop
 <br />
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
