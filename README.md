@@ -61,7 +61,8 @@ Go to control panel,click on programs, select turn windows features on or off, a
 <br />
 <p>
 Next, we will open this installation file: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 to install osTicket and some of the dependencies required.
-	
+<p>	
+	Install PHP Manager for IIS
 	<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
