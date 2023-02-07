@@ -65,6 +65,6 @@ Next, we will open this installation file: https://drive.google.com/drive/u/0/fo
 	<h3 align="center">Install PHP Manager for IIS</h3>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/MSVyVSj.png" alt="Install PHP Manager"/>
 </p>
 <br />
