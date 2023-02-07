@@ -37,7 +37,7 @@ Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs
 	When creating the VM, allow it to create a new Virtual Network (Vnet):
 </p>
 <br />
-
+<img src="https://i.imgur.com/qoNH8gL.png" alt="Virtual Machine"/>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
