@@ -59,7 +59,6 @@ Use the VM's Public I.P. address to connect via Remote Desktop
 Go to control panel, click on programs, under programs and features select Turn Windows features on or off, and enable IIS	
 </p>
 <br />
-Go to control panel, click on programs, under programs and features select Turn Windows features on or off, and enable IIS
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
