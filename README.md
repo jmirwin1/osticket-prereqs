@@ -30,7 +30,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 	Create a Resource Group
 </p>
 <p>
-<img src="https://imgur.com/FSzc1eI" height="80%" width="80%" alt="Resource Group"/>
+<img src=![FSzc1eI - Imgur (1)](https://user-images.githubusercontent.com/123747572/217341337-b2d40f92-e2a3-40a7-bc64-25850f102d60.png)
+"" height="80%" width="80%" alt="Resource Group"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
