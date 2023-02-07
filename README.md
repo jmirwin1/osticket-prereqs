@@ -38,6 +38,7 @@ When creating the VM, allow it to create a new Virtual Network (Vnet):
 </p>
 <br />
 <img src="https://i.imgur.com/qoNH8gL.png" alt="Virtual Machine"/>
+
 <img src="https://i.imgur.com/kdaXEpa.png" alt="Lab User Setup"/>
 </p>
 <br />
