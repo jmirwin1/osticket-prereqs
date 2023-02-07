@@ -25,6 +25,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 <h3 align="center">Create Virutal Machine in Azure</h3>
+<br />
+<p>
+	Create a Resource Group
+</p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
