@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Create Virtual Machine in Azure
-- Install Web Platform Installer
+- Install PHP Manager for IIS
 - Install osTicket v1.15.8
 - Install HeidiSQL 
 
@@ -52,6 +52,7 @@ Use the VM's Public I.P. address to connect via Remote Desktop
 <br />
 <br />
 <h3 align="center">Install / Enable IIS in Windows</h3>
+Go to control panel,click on programs, select turn windows features on or off, and add IIS
 <br />
 </p>
 <p>
