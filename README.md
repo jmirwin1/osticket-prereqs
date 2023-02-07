@@ -56,6 +56,7 @@ Use the VM's Public I.P. address to connect via Remote Desktop
 </p>
 <p>
 <img src="https://i.imgur.com/ILq51l4.png" alt="Install IIS"/>
+Go to control panel, click on programs, under programs and features select Turn Windows features on or off, and enable IIS	
 </p>
 <br />
 Go to control panel, click on programs, under programs and features select Turn Windows features on or off, and enable IIS
