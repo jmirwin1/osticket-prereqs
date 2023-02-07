@@ -33,8 +33,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 	<img src="https://i.imgur.com/FSzc1eI.png" alt="Resource Group"/>
 </p>
 <p>
-Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs
-	When creating the VM, allow it to create a new Virtual Network (Vnet):
+Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs (Central Processing Units).
+When creating the VM, allow it to create a new Virtual Network (Vnet):
 </p>
 <br />
 <img src="https://i.imgur.com/qoNH8gL.png" alt="Virtual Machine"/>
