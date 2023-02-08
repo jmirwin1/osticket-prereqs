@@ -90,3 +90,10 @@ Next, we will open this installation file: https://drive.google.com/drive/u/0/fo
 <h3 align="center"> Now open IIS as an administrator and register PHP
 	
 <img src="https://i.imgur.com/hIirxSM.png" alt="PHP Manager"/>	
+
+	
+<h3 align="center">Download osTicket v1.15.8
+	
+- Download osTicket from the Installation Files Folder
+- Extract and copy “upload” folder to c:\inetpub\wwwroot
+- Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
