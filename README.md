@@ -115,12 +115,19 @@ Next, we will open this installation file: https://drive.google.com/drive/u/0/fo
 <br />
 <br />
 	- Go back to IIS, sites -> Default -> osTicket
+	
 - Double-click PHP Manager
+	
 - Click “Enable or disable an extension”
+	
 - Enable: php_imap.dll
+	
 - Enable: php_intl.dll
+	
 - Enable: php_opcache.dll
+	
 - Refresh the osTicket site in your browse, observe the changes
+	
 <br />
 <br />
 	
