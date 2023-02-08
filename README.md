@@ -89,4 +89,4 @@ Next, we will open this installation file: https://drive.google.com/drive/u/0/fo
 
 <h3 align="center"> Now open IIS as an administrator and register PHP
 	
-<img src="https://i.imgur.com/hIirxSM.png" alt="PHP Manager"	
+<img src="https://i.imgur.com/hIirxSM.png" alt="PHP Manager"/>	
