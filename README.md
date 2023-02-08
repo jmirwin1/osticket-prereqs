@@ -168,7 +168,7 @@ Click Install Now
 <h3 align="center">Congratulations, osTicket is now installed
 <br />
 <br />
-< img src="https://i.imgur.com/o22XBCS.png" alt="Welcome to osTicket"/>
+<img src="https://i.imgur.com/o22XBCS.png" alt="Welcome to osTicket"/>
         <br />
         <br />
  Here is the link to browse to your help desk login page (right side): http://localhost/osTicket/scp/login.php
