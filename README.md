@@ -104,6 +104,7 @@ Next, we will open this installation file: https://drive.google.com/drive/u/0/fo
 <br />    
  <h3 align="center"> Go to sites -> Default -> osTicket
 <br />
+<br />	 
 <img src="https://i.imgur.com/FuUQbL8.png" alt="Default"/>
 	 
 	 
