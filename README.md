@@ -73,11 +73,11 @@ Next, we will open this installation file: https://drive.google.com/drive/u/0/fo
 </p>
 <p>
 <img src="https://i.imgur.com/aly5Aw0.png" alt="PHP C Drive" 
-     
-
+<br />    
+<br />
 <h3 align="center">From installation files, download next 3 items 
-	
-
+<br />	
+<br />
 <img src="https://i.imgur.com/hXA5bxc.png" alt="next 3 file downloads"/>
 	
 - For the file PHP 7.3.8 after downloading it, we will unzip all the contents into our PHP folder located on the C Drive.
