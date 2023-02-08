@@ -62,9 +62,9 @@ Go to control panel,click on programs, select turn windows features on or off, a
 <p>
 Next, we will open this installation file: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 to install osTicket and some of the dependencies required.
 <p>	
-	<h3 align="center">Install PHP Manager for IIS</h3>
+	<h3 align="center">Install PHP Manager for IIS and Rewrite Module</h3>
 </p>
 <p>
-<img src="https://i.imgur.com/MSVyVSj.png" alt="Install PHP Manager"/>
+<img src="https://i.imgur.com/fmxi5wI.png" alt="Install PHP Manager and Rewrite Module"/>
 </p>
 <br />
