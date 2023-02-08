@@ -85,3 +85,8 @@ Next, we will open this installation file: https://drive.google.com/drive/u/0/fo
 - Download file VC_redistx86.exe (Microsoft Visual C++) as normal.
 	
 - Download MySQL 5.5 and launch Configuration Wizard after install. Choose Standard Configuration and set the password as Password1.
+
+
+<h3 align="center"> Now open IIS as an administrator and register PHP
+	
+<img src="https://i.imgur.com/hIirxSM.png" alt="PHP Manager"	
