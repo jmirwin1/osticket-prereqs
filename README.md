@@ -98,3 +98,7 @@ Next, we will open this installation file: https://drive.google.com/drive/u/0/fo
 - Extract and copy “upload” folder to c:\inetpub\wwwroot
 - Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 
+
+<img src="https://i.imgur.com/0UpFEXa.png" alt="Download osTicket"
+     
+     
