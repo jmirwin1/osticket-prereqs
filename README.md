@@ -69,6 +69,7 @@ Next, we will open this installation file: https://drive.google.com/drive/u/0/fo
 </p>
 <br />
 <h3 align="center">Create the directory C:\PHP
+<br />
 </p>
 <p>
 <img src="https://i.imgur.com/aly5Aw0.png" alt="PHP C Drive" 	
