@@ -68,3 +68,5 @@ Next, we will open this installation file: https://drive.google.com/drive/u/0/fo
 <img src="https://i.imgur.com/fmxi5wI.png" alt="Install PHP Manager and Rewrite Module"/>
 </p>
 <br />
+<h3 align="center">Create the directory C:\PHP
+<img src="https://i.imgur.com/aly5Aw0.png" alt="PHP C Drive" 	
