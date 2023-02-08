@@ -72,9 +72,11 @@ Next, we will open this installation file: https://drive.google.com/drive/u/0/fo
 <br />
 </p>
 <p>
-<img src="https://i.imgur.com/aly5Aw0.png" alt="PHP C Drive" 	
+<img src="https://i.imgur.com/aly5Aw0.png" alt="PHP C Drive" 
+     
 
-<h3 align="center">From installation files, download next 3 items   
+<h3 align="center">From installation files, download next 3 items 
+	
 
 <img src="https://i.imgur.com/hXA5bxc.png" alt="next 3 file downloads"/>
 	
