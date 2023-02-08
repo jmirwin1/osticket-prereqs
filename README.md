@@ -148,3 +148,17 @@ New Permissions -> Everyone -> All
 <img src="https://i.imgur.com/dCbjweh.png" alt="osTicket Setup"/>
 <br />
 <br />
+<h3 align="center">From Installation Files, download and install HeidiSQL
+<br />
+<br />
+<img src="https://i.imgur.com/erk5kl8.png" alt="HeidiSQL"/>
+<br />
+<br />
+At bottom of osTicket installation page:
+MySQL Database: osTicket
+MySQL Username: root
+MySQL Password: Password1
+Click Install Now
+<br />
+<br />
+	
