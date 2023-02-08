@@ -101,7 +101,7 @@ Next, we will open this installation file: https://drive.google.com/drive/u/0/fo
 
 <img src="https://i.imgur.com/0UpFEXa.png" alt="Download osTicket"/>
 <br />	
-     
+<br />    
  <h3 align="center"> Go to sites -> Default -> osTicket
 
 <img src="https://i.imgur.com/FuUQbL8.png" alt="Default"/>
