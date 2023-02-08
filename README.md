@@ -142,4 +142,9 @@ Next, we will open this installation file: https://drive.google.com/drive/u/0/fo
 New Permissions -> Everyone -> All
 <br />
 <br />
-	
+<h3 align="center"> Continue Setting up osTicket in the browser (click Continue)
+<br />
+<br />
+<img src="https://i.imgur.com/dCbjweh.png" alt="osTicket Setup"/>
+<br />
+<br />
