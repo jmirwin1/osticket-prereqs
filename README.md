@@ -95,13 +95,17 @@ Next, we will open this installation file: https://drive.google.com/drive/u/0/fo
 <br />	
 <img src="https://i.imgur.com/hIirxSM.png" alt="PHP Manager"/>	
 
-	
-<h3 align="center">Download osTicket v1.15.8
-	
-- Download osTicket from the Installation Files Folder
-- Extract and copy “upload” folder to c:\inetpub\wwwroot
-- Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 
+<h3 align="center">Download osTicket v1.15.8
+<p>	
+- Download osTicket from the Installation Files Folder
+</p>
+<p>
+- Extract and copy “upload” folder to c:\inetpub\wwwroot
+ </p>
+ <p>
+- Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+ </p>
 
 <img src="https://i.imgur.com/0UpFEXa.png" alt="Download osTicket"/>
 <br />	
