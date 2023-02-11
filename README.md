@@ -144,14 +144,19 @@ Next, we will open this installation file: https://drive.google.com/drive/u/0/fo
 <br />	
 <h3 align="center"> Rename and Assign Permissions to ost-config.php
 <br />
-<br />
+<p>
 <img src="https://i.imgur.com/SiCOLAQ.png" alt="ost-config"/>
-<br />
-<br />
-- From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php change ost-sampleconfig.php to ost-config.php
+</p>
+<p>
+- From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+</p>
+<p>
+	change ost-sampleconfig.php to ost-config.php
+</p>
+<p>
 - Steps to assigning permissions are: Disable inheritance -> Remove All
 New Permissions -> Everyone -> All
-<br />
+</p>
 <br />
 <h3 align="center"> Continue Setting up osTicket in the browser (click Continue)
 <br />
