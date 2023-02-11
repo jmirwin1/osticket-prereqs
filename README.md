@@ -73,29 +73,28 @@ Next, we will open this installation file: https://drive.google.com/drive/u/0/fo
 </p>
 <p>
 <img src="https://i.imgur.com/aly5Aw0.png" alt="PHP C Drive" 
-<p>    
-</p>
+</p>    
+<p>
 <h3 align="center">From installation files, download next 3 items 
-<p>	
-</p/>
+</p>	
+<p/>
 <img src="https://i.imgur.com/hXA5bxc.png" alt="next 3 file downloads"/>
-<p>
-</p>	
+</p>
+<p>	
 - For the file PHP 7.3.8 after downloading it, we will unzip all the contents into our PHP folder located on the C Drive.
-<p>
-</p>	
+</p>
+<p>	
 - Download file VC_redistx86.exe (Microsoft Visual C++) as normal.
-<p>
-</p>	
+</p>
+<p>	
 - Download MySQL 5.5 and launch Configuration Wizard after install. Choose Standard Configuration and set the password as Password1.
-<br />
+</p>
 <br />
 <h3 align="center"> Now open IIS as an administrator and register PHP
 <br />
-<br />	
+<p>	
 <img src="https://i.imgur.com/hIirxSM.png" alt="PHP Manager"/>	
-
-
+</p>
 <h3 align="center">Download osTicket v1.15.8
 <p>	
 - Download osTicket from the Installation Files Folder
@@ -106,7 +105,6 @@ Next, we will open this installation file: https://drive.google.com/drive/u/0/fo
  <p>
 - Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
  </p>
-
 <img src="https://i.imgur.com/0UpFEXa.png" alt="Download osTicket"/>
 <br />	
 <p>    
@@ -160,32 +158,35 @@ New Permissions -> Everyone -> All
 <br />
 <h3 align="center"> Continue Setting up osTicket in the browser (click Continue)
 <br />
-<br />
+<p>
 <img src="https://i.imgur.com/dCbjweh.png" alt="osTicket Setup"/>
-<br />
-<br />
+</p>
+<p>
 <h3 align="center">From Installation Files, download and install HeidiSQL
 <br />
-<br />
+<p>
 <img src="https://i.imgur.com/erk5kl8.png" alt="HeidiSQL"/>
-<br />
-<br />
+</p>
+<p>
 At bottom of osTicket installation page:
+</p>
+<p>
 MySQL Database: osTicket
-	
+</p>
+<p>
 MySQL Username: root
-	
+</p>
+<p>
 MySQL Password: Password1
-	
+</p>
+<p>	
 Click Install Now
-<br />
-<br />
-	
+</p>
+<br />	
 <h3 align="center">Congratulations, osTicket is now installed
 <br />
-<br />
 <img src="https://i.imgur.com/o22XBCS.png" alt="Welcome to osTicket"/>
-        <br />
-        <br />
+<br />
+<p>
  Here is the link to browse to your help desk login page (right side): http://localhost/osTicket/scp/login.php
- 
+</p>
