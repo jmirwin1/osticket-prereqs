@@ -73,17 +73,20 @@ Next, we will open this installation file: https://drive.google.com/drive/u/0/fo
 </p>
 <p>
 <img src="https://i.imgur.com/aly5Aw0.png" alt="PHP C Drive" 
-<br />    
-<br />
+<p>    
+</p>
 <h3 align="center">From installation files, download next 3 items 
-<br />	
-<br />
+<p>	
+</p/>
 <img src="https://i.imgur.com/hXA5bxc.png" alt="next 3 file downloads"/>
-	
+<p>
+</p>	
 - For the file PHP 7.3.8 after downloading it, we will unzip all the contents into our PHP folder located on the C Drive.
-	
+<p>
+</p>	
 - Download file VC_redistx86.exe (Microsoft Visual C++) as normal.
-	
+<p>
+</p>	
 - Download MySQL 5.5 and launch Configuration Wizard after install. Choose Standard Configuration and set the password as Password1.
 <br />
 <br />
