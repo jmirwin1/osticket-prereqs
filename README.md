@@ -113,30 +113,30 @@ Next, we will open this installation file: https://drive.google.com/drive/u/0/fo
  <h3 align="center"> Go to sites -> Default -> osTicket
 </p>
 <p/>	 
-<img src="https://i.imgur.com/FuUQbL8.png" alt="Default"/>
+	<img src="https://i.imgur.com/FuUQbL8.png" alt="Default"/>
 </p>	 
 <h3 align="center">Note that some extensions are not enabled
 <br />
 <p>
-<img src="https://i.imgur.com/kvHqL4b.png" alt="Extensions"/>
+	<img src="https://i.imgur.com/kvHqL4b.png" alt="Extensions"/>
 <br />
 <p>
-- Go back to IIS, sites -> Default -> osTicket
+	Go back to IIS, sites -> Default -> osTicket
 </p>
 <p>	
-- Double-click PHP Manager
+	Double-click PHP Manager
  </p>
  <p>
-- Click “Enable or disable an extension”
+	Click “Enable or disable an extension”
  </p>
  <p>
-- Enable: php_imap.dll
+	Enable: php_imap.dll
  </p>      
 <p>	
-- Enable: php_intl.dll
+	Enable: php_intl.dll
 </p>
 <p>        
-- Enable: php_opcache.dll
+	Enable: php_opcache.dll
 </p>
 <p>        
 - Refresh the osTicket site in your browse, observe the changes
